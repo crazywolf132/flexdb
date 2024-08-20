@@ -17,7 +17,7 @@ Welcome to FlexDB, the Go database library that's more flexible than a gymnast! 
 First, let's get this party started:
 
 ```go
-import "github.com/crazywolf132/flexdb"
+import "github.com/foxycorps/flexdb"
 
 db, err := flexdb.NewDatabase("./my_awesome_db.json")
 if err != nil {
