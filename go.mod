@@ -1,4 +1,4 @@
-module github.com/crazywolf132/flexdb
+module github.com/foxycorps/flexdb
 
 go 1.22.4
 
